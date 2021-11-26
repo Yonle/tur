@@ -5,5 +5,9 @@ This repository is still empty yet, However you're still welcome to made a build
 
 ## Setting up Tur
 ```sh
-echo https://github.com/Yonle/tur.git > ~/.config/shpkg-repo.list
+echo https://github.com/Yonle/tur.git > ~/.config/shpkg_repo.list
+shpkg update
 ```
+
+## Discussion
+- https://t.me/yonlecoder
